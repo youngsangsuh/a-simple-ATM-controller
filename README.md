@@ -1,6 +1,6 @@
 # a-simple-ATM-controller
 
-INSTRUCTIONS
+## INSTRUCTIONS
 
 Account datasets are given at the top of the code. To implement, you only need to modify the datasets.
 1. Insert the account number among the datasets
@@ -8,7 +8,7 @@ Account datasets are given at the top of the code. To implement, you only need t
 3. Choose the menu (Deposit:1, Withdraw:2, Exit:3)
 4. Have Fun!
 
-BUILD
+## BUILD
 
 simple C++ program (no header file), I used clang
 
