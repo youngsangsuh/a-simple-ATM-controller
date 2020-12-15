@@ -10,5 +10,5 @@ Account datasets are given at the top of the code. To implement, you only need t
 
 ## BUILD
 
-simple C++ program (no header file), I used clang
+simple C++ program (no header file), clang++ and g++ can be used
 
